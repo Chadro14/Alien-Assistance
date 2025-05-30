@@ -44,10 +44,7 @@
 
 
 
-    #Fork pour ne pas rater nos activités 🪰
-
-
-    `DEV💻: Son Altesse Royal👑`
+    `Alien Assistance`
 
     
 
