@@ -1,11 +1,11 @@
 async function githubCommand(sock, chatId) {
-    const repoInfo = `*🤖 KnightBot MD*
+    const repoInfo = `*🪰 Alien-Assistance*
 
-*📂 GitHub Repository:*
-https://github.com/mruniquehacker/Knightbot-MD
+*💻 GitHub Repository:*
+https://github.com/Chadro14/Alien-Assistance
 
-*📢 Official Channel:*
-https://youtube.com/@mr_unique_hacker
+*📱 Official Channel Whatsapp:*
+https://whatsapp.com/channel/0029Vb6TWEeLY6d7ckvW7X1y
 
 _Star ⭐ the repository if you like the bot!_`;
 
@@ -17,7 +17,7 @@ _Star ⭐ the repository if you like the bot!_`;
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterName: 'Alien-Assistance',
                     serverMessageId: -1
                 }
             }
