@@ -59,7 +59,7 @@
 <div align="center">
 
 
-<a aria-label="Join our chats" href="https://chat.whatsapp.com/EGSeev12now6YTZYlTAxkr" target="_blank">
+<a aria-label="Join our chats" href="https://whatsapp.com/channel/0029Vb6TWEeLY6d7ckvW7X1y" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Whatsapp%20channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 <a aria-label="Join our chats" href="(https://whatsapp.com/channel/0029Vb6TWEeLY6d7ckvW7X1y)" target="_blank">
